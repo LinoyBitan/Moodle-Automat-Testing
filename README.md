@@ -42,11 +42,3 @@ Each of the testing methods is elaborated in its own directory.
 
 ## Results
 All tests passed successfully.
-
-# IMPORTANT !!!!!!!
-For the one before the last command we must have to do some code lines as a comment so the test can be run one by one.
-We comment the lines of clicking the course as star and the lines that belong to the actions of deleting the course.
-The events happen but the clicking of delete/star the course are not really happen because we wanted the tests run all together.
-
-# IMPORTANT !!!!!!!!
-For the TwoWay we have another function in the ensemble-code.js that belong to it (in comment because it's with the same name).
